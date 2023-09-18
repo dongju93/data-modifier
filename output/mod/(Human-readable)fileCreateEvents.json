@@ -1,0 +1,14 @@
+[
+    {
+        "agent_name": "DESKTOP-0FS3LG3",
+        "agent_id": "f98ce9dc-4df6-445a-890d-c7a5368c230d",
+        "event_action": "File created",
+        "utc_time": "2023-06-05 05:31:53.691",
+        "process_guid": "{145e89fa-a02a-64d1-ff6e-000000000f00}",
+        "process_id": 18572,
+        "image": "C:\\Program Files (x86)\\ESTsoft\\ALPDF\\ALPDF.exe",
+        "target_filename": "C:\\Temp\\2020\\HncDownload\\PrepareTemp\\HncUpdate.cab",
+        "creation_utc_time": "2023-06-05 05:31:53.689",
+        "user": "DESKTOP-0FS3LG3\\spdlq"
+    }
+]
