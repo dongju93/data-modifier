@@ -1,2 +1,0 @@
-agent_name	agent_id	event_action	utc_time	process_guid	process_id	image	target_filename	creation_utc_time	user
-DESKTOP-0FS3LG3	f98ce9dc-4df6-445a-890d-c7a5368c230d	File created	2023-06-05 05:31:58.691	{145e89fa-a02a-64d1-ff6e-000000000f00}	18572	C:\Program Files (x86)\ESTsoft\ALPDF\ALPDF.exe	C:\Temp\2020\HncDownload\PrepareTemp\HncUpdate.cab	2023-06-05 05:31:53.689	DESKTOP-0FS3LG3\spdlq
