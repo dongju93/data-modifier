@@ -1,5 +1,6 @@
 .DS_Store
 */**/.DS_Store
+/output/mod/*
 /output/ori/*
 __pycache__
 env.py
