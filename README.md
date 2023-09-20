@@ -65,17 +65,17 @@
     ⊙ N-TAS 기준
         - srcAddr : 41.179.253.229 ✅
     ⊙ E-TAS 기준
-        - agentName : DESKTOP-0FS3LG3
-        - agentId : f98ce9dc-4df6-445a-890d-c7a5368c230d
+        - agentName : DESKTOP-0FS3LG3 ✅
+        - agentId : f98ce9dc-4df6-445a-890d-c7a5368c230d ✅
 ## N-TAS log
     ⊙ Target detect event
         - HttpThreat ✅
         - DnsCovertChannel ✅
 ## E-TAS log
     ⊙ Target detect event
-        - Randsomware
-        - Rootkit
-        - Bootkit
+        - Randsomware ✅
+        - Rootkit ✅
+        - Bootkit ✅
 
 
 <br/><br/>
