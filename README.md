@@ -53,7 +53,9 @@
 
 # Detect log
 ## Goal
-    A situation where both N-TAS and E-TAS detection events are detected on a single device over a specific period of time (approximately one month). Both N-TAS and E-TAS detection events are detected.
+    A situation where both N-TAS and E-TAS detection events are detected
+    on a single device over a specific period of time (approximately one month).
+    Both N-TAS and E-TAS detection events are detected.
 ## Target
     ⊙ Datetime
         - 2023.07.01 ~ 2023.07.30 ✅
