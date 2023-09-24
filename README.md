@@ -53,8 +53,7 @@
 
 # Detect log
 ## Goal
-    단일 Device 에서 특정한 기간(약 한달) 동안
-    N-TAS 탐지이벤트와 E-TAS 탐지이벤트가 모두 검출이 되는 상황
+    A situation where both N-TAS and E-TAS detection events are detected on a single device over a specific period of time (approximately one month). Both N-TAS and E-TAS detection events are detected.
 ## Target
     ⊙ Datetime
         - 2023.07.01 ~ 2023.07.30 ✅
@@ -62,9 +61,9 @@
     ⊙ Counts
         - 300 ✅
 ## Common spec
-    ⊙ N-TAS 기준
+    ⊙ N-TAS
         - srcAddr : 41.179.253.229 ✅
-    ⊙ E-TAS 기준
+    ⊙ E-TAS
         - agentName : DESKTOP-0FS3LG3 ✅
         - agentId : f98ce9dc-4df6-445a-890d-c7a5368c230d ✅
 ## N-TAS log
@@ -78,8 +77,6 @@
         - Bootkit ✅
 
 
-<br/><br/>
-
-
+<br/>
 
 #### Copyright 2023. ClumL Inc. all rights reserved
