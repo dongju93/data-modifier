@@ -77,8 +77,3 @@
         - Randsomware ✅
         - Rootkit ✅
         - Bootkit ✅
-
-
-<br/>
-
-#### Copyright 2023. ClumL Inc. all rights reserved
